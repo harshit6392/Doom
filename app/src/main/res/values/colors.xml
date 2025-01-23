@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#91E2A8</color>
+    <color name="liteGreen">#DDF5E4</color>
+    <color name="extraLiteGreen">#E8F5E9</color>
+    <color name="secondary">#63bdff</color>
+    <color name="gray">#909090</color>
+    <color name="disabled_color">#CFD6E4</color>
+    <color name="card_color">#F7F7F7</color>
+    <color name="search_view_color">#F3F7FF</color>
+    <color name="viewBg">#E3E6EC</color>
+    <color name="selectedCardBackground">#0CA3A9</color>
+
+    <color name="md_theme_primary">#30AAB1</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#9CF1F4</color>
+    <color name="md_theme_onPrimaryContainer">#002021</color>
+    <color name="md_theme_secondary">#4A6364</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_secondaryContainer">#CCE8E8</color>
+    <color name="md_theme_onSecondaryContainer">#041F20</color>
+    <color name="md_theme_tertiary">#4D5F7C</color>
+    <color name="md_theme_onTertiary">#FFFFFF</color>
+    <color name="md_theme_tertiaryContainer">#D5E3FF</color>
+    <color name="md_theme_onTertiaryContainer">#071C36</color>
+    <color name="md_theme_error">#BA1A1A</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+</resources>
